@@ -1,7 +1,7 @@
 # pemrograman-mobile-2024
-Nama:Tesya Indriani
+Nama: Tesya Indriani
 
-NIM:H0724522 
+NIM: H0724522 
 
 Prodi: Pendidikan Teknologi Informasi
 
